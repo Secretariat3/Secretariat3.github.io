@@ -1,0 +1,14 @@
+img {
+    width: 300px;
+    height: 300px;
+}
+#row1{
+    background-color: pink;
+}
+#row2{
+    background-color: salmon;
+}
+li{
+    background-color: yellow;
+}
+    
